@@ -1,0 +1,4 @@
+dataroot: data/tache 3
+openai_key: # Put your OpenAI key here
+llm_chosen: "gpt-4o" # "gpt-3.5-turbo"
+path_new_docs: "data/tache 3/new_docs/"

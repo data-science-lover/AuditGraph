@@ -1,0 +1,25 @@
+pandas
+llama-index
+llama_index-readers-web
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-graph-stores-neo4j
+llama-index-llms-openai
+ollama
+gradio
+graspologic  # used to use hierarchical_leiden for building communities.
+nest_asyncio
+networkx
+future
+html2text
+lightrag-hku
+aioboto3
+nano-vectordb
+oracledb
+# llama_index.core
+# llama_index.llms.openai
+# llama-index-vector-stores-chroma
+# llama-index-llms-azure-openai
+# llama-index-graph-stores-nebula
+# llama-index-embeddings-azure-openai

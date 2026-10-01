@@ -1,0 +1,13 @@
+llm_env
+*.yaml
+*.gradio
+*.log
+*.idea
+*.venv
+*.pyc
+*.DS_Store
+*__pycache__
+project/__pycache__/*
+*.pdf
+Bilans/*
+data/*
